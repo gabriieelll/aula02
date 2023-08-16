@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moda Masculina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Moda Masculina</h1>
+        <p>As últimas tendências em moda masculina</p>
+    </header>
+    <nav>
+        <a href="#">Início</a>
+        <a href="#">Roupas</a>
+        <a href="#">Acessórios</a>
+        <a href="#">Dicas de Estilo</a>
+        <a href="#">Contato</a>
+    </nav>
+    <section>
+        <h2>Últimas Tendências</h2>
+        <p>Descubra as últimas tendências em moda masculina para esta temporada. Fique por dentro das peças-chave e dos estilos em alta.</p>
+    </section>
+    <section>
+        <h2>Roupas</h2>
+        <p>Explore nossa coleção de roupas masculinas, incluindo camisetas, camisas, calças e muito mais. Atualize seu guarda-roupa com estilo.</p>
+    </section>
+    <section>
+        <h2>Acessórios</h2>
+        <p>Complemente seu visual com nossos acessórios elegantes, como relógios, óculos de sol, chapéus e cintos. Pequenos detalhes que fazem a diferença.</p>
+    </section>
+    <section>
+        <h2>Dicas de Estilo</h2>
+        <p>Confira nossas dicas de estilo para se vestir com elegância e confiança. Aprenda a combinar peças e criar looks incríveis.</p>
+    </section>
+    <section>
+        <h2>Contato</h2>
+        <p>Entre em contato conosco para tirar dúvidas, fazer sugestões ou obter mais informações sobre nossos produtos e serviços.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Moda Masculina. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
